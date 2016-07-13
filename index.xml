@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="1.15" name="GF9: Tanks" indexUrl="https://www.dropbox.com/home/BattleScribe" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="GF9_Tanks.gstz" dataType="gamesystem" dataId="dcae-d466-7fc2-0d70" dataName="GF9: Tanks" dataBattleScribeVersion="1.15" dataRevision="1"/>
+    <dataIndexEntry filePath="British_Platoon.catz" dataType="catalogue" dataId="eea8-47a5-f999-2ec2" dataName="British Platoon" dataBattleScribeVersion="1.15" dataRevision="2"/>
+    <dataIndexEntry filePath="German_Platoon.catz" dataType="catalogue" dataId="6371-3ea3-aa04-bb40" dataName="German Platoon" dataBattleScribeVersion="1.15" dataRevision="3"/>
+    <dataIndexEntry filePath="American_Platoon.catz" dataType="catalogue" dataId="da1d-5338-d8ba-2a85" dataName="American Platoon" dataBattleScribeVersion="1.15" dataRevision="3"/>
+    <dataIndexEntry filePath="Russian_Platoon.catz" dataType="catalogue" dataId="3861-d9ee-3f50-0f6c" dataName="Russian Platoon" dataBattleScribeVersion="1.15" dataRevision="2"/>
+  </dataIndexEntries>
+</dataIndex>
